@@ -24,6 +24,6 @@ The PyCitySchools analysis was conducted to assess the performance of schools ac
 1. Investment in Resources<br>
 :white_small_square:Schools with higher per-student budgets generally perform better. Increasing funding to lower-performing schools, particularly those with larger student bodies, could help bridge the performance gap.
 
-2.Focus on Scalability<br>
+2. Focus on Scalability<br>
 :white_small_square: Smaller schools show better overall passing rates, suggesting that students benefit from a more focused educational environment. Initiatives to reduce class sizes in larger schools should be considered to replicate this success.
 These findings provide actionable insights that can guide budgetary decisions, resource allocation, and policy-making to foster an improved educational environment across the district. It is recommended that the school board consider these factors in their strategic planning to enhance student outcomes district-wide.
