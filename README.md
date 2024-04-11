@@ -15,9 +15,9 @@ The PyCitySchools analysis was conducted to assess the performance of schools ac
 :white_small_square: The percentage of students passing math was 74.98%, reading was 85.5%, and those passing both subjects was 65%.<br>
 
 ## School Performance<br>
-:white_small_square: The analysis distinguished the schools into top-performing and low-performing categories based on the overall passing rate.
-:white_small_square: Top schools tend to have higher budgets per student and smaller student populations.
-:white_small_square: Conversely, schools struggling with performance show a trend of larger student bodies and lower spending per student.
+:white_small_square: The analysis distinguished the schools into top-performing and low-performing categories based on the overall passing rate.<br>
+:white_small_square: Top schools tend to have higher budgets per student and smaller student populations.<br>
+:white_small_square: Conversely, schools struggling with performance show a trend of larger student bodies and lower spending per student.<br>
 
 ## Conclusion and Recommendations
 
